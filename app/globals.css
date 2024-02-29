@@ -4,5 +4,5 @@
 
 .butt{
     @apply
-    border bg-black p-1 rounded-md text-white text-sm
+    bg-blue-600 p-1 rounded-md shadow-md shadow-blue-400 text-white text-sm
 }

@@ -6,7 +6,7 @@ const AddButton = () => {
     return (
     <div>
         <button 
-                className="bg-black text-white rounded-lg mt-2 p-1 w-full"
+                className="bg-blue-600 mt-5 p-1 shadow-md shadow-blue-400 text-white rounded-lg   w-full"
                 type="submit">
                 {pending ? 'Adding...' : 'Add'}
             </button>

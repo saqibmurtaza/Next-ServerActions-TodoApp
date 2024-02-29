@@ -19,7 +19,7 @@ const AddForm = () => {
             <input 
             type="text" 
             name="inputData" 
-            placeholder="Enter Task" className="border p-1"
+            placeholder="Enter Task" className="border p-1 rounded-md md:text-xl text-sm"
             />
             <AddButton />
         </form>
